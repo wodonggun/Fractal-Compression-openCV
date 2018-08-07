@@ -1,3 +1,15 @@
+# Setting
+1. Visual Studio 2017
+2. openCV 3.0.0-beta
+3. Encdoing / Decoding - Independent execution
+
+<br>
+
+----------------------------------- 
+
+<br>
+
+
 # Fractal-Compression-openCV
 openCV C++ Fractal Compression Algorithm
 
