@@ -1,0 +1,10 @@
+﻿  encoding.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1964): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\user\source\repos\c-fractal-compression2\c-fractal-compression2\encoding.cpp(150): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\user\source\repos\c-fractal-compression2\c-fractal-compression2\encoding.cpp(150): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+c:\users\user\source\repos\c-fractal-compression2\c-fractal-compression2\encoding.cpp(159): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\c-fractal-compression2\c-fractal-compression2\encoding.cpp(276): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  C-Fractal-Compression.vcxproj -> C:\Users\User\source\repos\C-Fractal-Compression\Debug\C-Fractal-Compression.exe
